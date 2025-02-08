@@ -1,0 +1,266 @@
+2025-01-21 09:00:56,267 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:00:56,319 - app - INFO - 启动服务
+2025-01-21 09:00:58,087 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:00:58,087 - app - INFO - 启动服务
+2025-01-21 09:05:45,767 - app - INFO - 查看模板详情
+2025-01-21 09:05:45,767 - app - DEBUG - id: 43
+2025-01-21 09:13:25,679 - app - INFO - 修改模板
+2025-01-21 09:15:49,978 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:15:49,979 - app - INFO - 启动服务
+2025-01-21 09:15:51,408 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:15:51,408 - app - INFO - 启动服务
+2025-01-21 09:16:04,647 - app - INFO - 修改模板
+2025-01-21 09:16:18,233 - app - INFO - 查看模板详情
+2025-01-21 09:16:18,233 - app - DEBUG - id: 43
+2025-01-21 09:17:12,836 - app - INFO - 新建测试任务
+2025-01-21 09:17:12,837 - app - DEBUG - id: 43
+2025-01-21 09:17:13,200 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:17:13,359 - app - DEBUG - id: 1
+2025-01-21 09:17:13,373 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:17:13,391 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:17:13,395 - app - INFO - 开始抽取数据
+2025-01-21 09:17:13,414 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/153/
+2025-01-21 09:17:13,415 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:17:13,415 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/153/
+2025-01-21 09:17:13,451 - app - INFO - num_pages=10
+2025-01-21 09:17:13,451 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:17:13,451 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:18:26,738 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:20:02,688 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:20:02,689 - app - INFO - 启动服务
+2025-01-21 09:20:04,045 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:20:04,048 - app - INFO - 启动服务
+2025-01-21 09:20:20,546 - app - INFO - 新建测试任务
+2025-01-21 09:20:20,547 - app - DEBUG - id: 43
+2025-01-21 09:20:20,587 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:20:20,665 - app - DEBUG - id: 1
+2025-01-21 09:20:20,668 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:20:20,671 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:20:20,673 - app - INFO - 开始抽取数据
+2025-01-21 09:20:20,705 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/154/
+2025-01-21 09:20:20,705 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:20:20,705 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/154/
+2025-01-21 09:20:20,711 - app - INFO - num_pages=10
+2025-01-21 09:20:20,711 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:20:20,712 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:21:30,088 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:23:46,948 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:23:46,949 - app - INFO - 启动服务
+2025-01-21 09:23:48,311 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:23:48,312 - app - INFO - 启动服务
+2025-01-21 09:24:07,247 - app - INFO - 新建测试任务
+2025-01-21 09:24:07,247 - app - DEBUG - id: 43
+2025-01-21 09:24:07,292 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:24:07,408 - app - DEBUG - id: 1
+2025-01-21 09:24:07,415 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:24:07,421 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:24:07,425 - app - INFO - 开始抽取数据
+2025-01-21 09:24:07,462 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/155/
+2025-01-21 09:24:07,462 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:24:07,462 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/155/
+2025-01-21 09:24:07,471 - app - INFO - num_pages=10
+2025-01-21 09:24:07,471 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:24:07,471 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:25:08,204 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:30:34,704 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:30:34,710 - app - INFO - 启动服务
+2025-01-21 09:30:36,080 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:30:36,081 - app - INFO - 启动服务
+2025-01-21 09:30:50,205 - app - INFO - 新建测试任务
+2025-01-21 09:30:50,206 - app - DEBUG - id: 43
+2025-01-21 09:30:50,247 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:30:50,342 - app - DEBUG - id: 1
+2025-01-21 09:30:50,344 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:30:50,347 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:30:50,349 - app - INFO - 开始抽取数据
+2025-01-21 09:30:50,398 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/156/
+2025-01-21 09:30:50,399 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:30:50,399 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/156/
+2025-01-21 09:30:50,407 - app - INFO - num_pages=10
+2025-01-21 09:30:50,407 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:30:50,407 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:32:00,820 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:34:12,620 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:34:12,620 - app - INFO - 启动服务
+2025-01-21 09:34:13,969 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:34:13,970 - app - INFO - 启动服务
+2025-01-21 09:34:56,946 - app - INFO - 新建测试任务
+2025-01-21 09:34:56,946 - app - DEBUG - id: 43
+2025-01-21 09:34:56,988 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:34:57,141 - app - DEBUG - id: 1
+2025-01-21 09:34:57,154 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:34:57,163 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:34:57,167 - app - INFO - 开始抽取数据
+2025-01-21 09:34:57,236 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/157/
+2025-01-21 09:34:57,237 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:34:57,237 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/157/
+2025-01-21 09:34:57,244 - app - INFO - num_pages=10
+2025-01-21 09:34:57,244 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:34:57,244 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:36:08,676 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:38:17,631 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:38:17,636 - app - INFO - 启动服务
+2025-01-21 09:38:18,987 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:38:18,992 - app - INFO - 启动服务
+2025-01-21 09:38:33,822 - app - INFO - 新建测试任务
+2025-01-21 09:38:33,822 - app - DEBUG - id: 43
+2025-01-21 09:38:33,875 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:38:33,974 - app - DEBUG - id: 1
+2025-01-21 09:38:33,978 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:38:33,984 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:38:33,987 - app - INFO - 开始抽取数据
+2025-01-21 09:38:34,039 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/158/
+2025-01-21 09:38:34,040 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:38:34,040 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/158/
+2025-01-21 09:38:34,048 - app - INFO - num_pages=10
+2025-01-21 09:38:34,048 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:38:34,048 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:39:32,334 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:47:39,685 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:47:39,686 - app - INFO - 启动服务
+2025-01-21 09:47:41,054 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:47:41,055 - app - INFO - 启动服务
+2025-01-21 09:47:46,698 - app - INFO - 新建测试任务
+2025-01-21 09:47:46,698 - app - DEBUG - id: 43
+2025-01-21 09:47:46,733 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:47:52,232 - app - INFO - 新建测试任务
+2025-01-21 09:47:52,232 - app - DEBUG - id: 43
+2025-01-21 09:47:52,275 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:47:52,618 - app - DEBUG - id: 1
+2025-01-21 09:47:52,625 - app - DEBUG - id: 1,type: 1
+2025-01-21 09:47:52,631 - app - DEBUG - id: 3,type: 2
+2025-01-21 09:47:52,634 - app - INFO - 开始抽取数据
+2025-01-21 09:47:52,671 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/159/
+2025-01-21 09:47:52,671 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 09:47:52,671 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/159/
+2025-01-21 09:47:52,679 - app - INFO - num_pages=10
+2025-01-21 09:47:52,679 - app - INFO - Processing pages 1 to 10
+2025-01-21 09:47:52,679 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 09:50:02,343 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 09:54:09,196 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:54:09,197 - app - INFO - 启动服务
+2025-01-21 09:54:10,633 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 09:54:10,638 - app - INFO - 启动服务
+2025-01-21 10:10:44,512 - app - INFO - 新建测试任务
+2025-01-21 10:10:44,512 - app - DEBUG - id: 43
+2025-01-21 10:10:44,553 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:10:44,696 - app - DEBUG - id: 1
+2025-01-21 10:10:44,706 - app - DEBUG - id: 1,type: 1
+2025-01-21 10:10:44,717 - app - DEBUG - id: 3,type: 2
+2025-01-21 10:10:44,720 - app - INFO - 开始抽取数据
+2025-01-21 10:10:44,766 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/160/
+2025-01-21 10:10:44,766 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 10:10:44,766 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/160/
+2025-01-21 10:10:44,815 - app - INFO - num_pages=10
+2025-01-21 10:10:44,815 - app - INFO - Processing pages 1 to 10
+2025-01-21 10:10:44,815 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:11:45,362 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 10:14:41,769 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:14:41,770 - app - INFO - 启动服务
+2025-01-21 10:14:43,144 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:14:43,149 - app - INFO - 启动服务
+2025-01-21 10:14:50,121 - app - INFO - 新建测试任务
+2025-01-21 10:14:50,121 - app - DEBUG - id: 43
+2025-01-21 10:14:50,170 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:14:50,258 - app - DEBUG - id: 1
+2025-01-21 10:14:50,261 - app - DEBUG - id: 1,type: 1
+2025-01-21 10:14:50,264 - app - DEBUG - id: 3,type: 2
+2025-01-21 10:14:50,266 - app - INFO - 开始抽取数据
+2025-01-21 10:14:50,326 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/161/
+2025-01-21 10:14:50,326 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 10:14:50,326 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/161/
+2025-01-21 10:14:50,334 - app - INFO - num_pages=10
+2025-01-21 10:14:50,334 - app - INFO - Processing pages 1 to 10
+2025-01-21 10:14:50,334 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:15:55,300 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 10:18:24,603 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:18:24,604 - app - INFO - 启动服务
+2025-01-21 10:18:26,044 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:18:26,045 - app - INFO - 启动服务
+2025-01-21 10:18:30,452 - app - INFO - 新建测试任务
+2025-01-21 10:18:30,452 - app - DEBUG - id: 43
+2025-01-21 10:18:30,497 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:18:30,588 - app - DEBUG - id: 1
+2025-01-21 10:18:30,593 - app - DEBUG - id: 1,type: 1
+2025-01-21 10:18:30,599 - app - DEBUG - id: 3,type: 2
+2025-01-21 10:18:30,602 - app - INFO - 开始抽取数据
+2025-01-21 10:18:30,641 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/162/
+2025-01-21 10:18:30,642 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 10:18:30,642 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/162/
+2025-01-21 10:18:30,685 - app - INFO - num_pages=10
+2025-01-21 10:18:30,685 - app - INFO - Processing pages 1 to 10
+2025-01-21 10:18:30,685 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:19:40,355 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 10:27:19,024 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:27:19,030 - app - INFO - 启动服务
+2025-01-21 10:27:20,390 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:27:20,394 - app - INFO - 启动服务
+2025-01-21 10:27:45,356 - app - INFO - 新建测试任务
+2025-01-21 10:27:45,356 - app - DEBUG - id: 43
+2025-01-21 10:27:45,427 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:27:45,572 - app - DEBUG - id: 1
+2025-01-21 10:27:45,583 - app - DEBUG - id: 1,type: 1
+2025-01-21 10:27:45,595 - app - DEBUG - id: 3,type: 2
+2025-01-21 10:27:45,598 - app - INFO - 开始抽取数据
+2025-01-21 10:27:45,632 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/163/
+2025-01-21 10:27:45,632 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 10:27:45,632 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/163/
+2025-01-21 10:27:45,667 - app - INFO - num_pages=10
+2025-01-21 10:27:45,667 - app - INFO - Processing pages 1 to 10
+2025-01-21 10:27:45,667 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:28:45,135 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 10:33:32,392 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:33:32,394 - app - INFO - 启动服务
+2025-01-21 10:33:33,746 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 10:33:33,751 - app - INFO - 启动服务
+2025-01-21 10:33:51,397 - app - INFO - 新建测试任务
+2025-01-21 10:33:51,397 - app - DEBUG - id: 43
+2025-01-21 10:33:51,447 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:33:51,530 - app - DEBUG - id: 1
+2025-01-21 10:33:51,532 - app - DEBUG - id: 1,type: 1
+2025-01-21 10:33:51,535 - app - DEBUG - id: 3,type: 2
+2025-01-21 10:33:51,536 - app - INFO - 开始抽取数据
+2025-01-21 10:33:51,588 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/164/
+2025-01-21 10:33:51,588 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-21 10:33:51,589 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/164/
+2025-01-21 10:33:51,595 - app - INFO - num_pages=10
+2025-01-21 10:33:51,596 - app - INFO - Processing pages 1 to 10
+2025-01-21 10:33:51,596 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-21 10:34:48,134 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-21 10:35:02,430 - app - INFO - 实体抽取prompt:委托单位名称
+2025-01-21 10:35:18,282 - app - INFO - 实体抽取prompt:监测报告编号
+2025-01-21 10:35:40,006 - app - INFO - 实体抽取prompt:基站地址|建设地点|监测地点
+2025-01-21 10:36:06,662 - app - INFO - 实体抽取prompt:经纬度
+2025-01-21 10:36:23,822 - app - INFO - 实体抽取prompt:铁塔站址编码
+2025-01-21 10:36:37,410 - app - INFO - 实体抽取prompt:网络制式|网络系统
+2025-01-21 10:37:19,853 - app - INFO - 实体抽取prompt:发射频率范围
+2025-01-21 10:38:27,784 - app - INFO - 实体抽取prompt:天线数量
+2025-01-21 10:38:45,022 - app - INFO - 实体抽取prompt:监测日期
+2025-01-21 10:39:04,120 - app - INFO - 实体抽取prompt:监测时间
+2025-01-21 10:39:24,365 - app - INFO - 实体抽取prompt:天气
+2025-01-21 10:39:37,330 - app - INFO - 实体抽取prompt:环境温度
+2025-01-21 10:39:50,911 - app - INFO - 实体抽取prompt:相对湿度
+2025-01-21 10:40:04,398 - app - INFO - 实体抽取prompt:监测所依据的技术文件名称及代号
+2025-01-21 10:40:21,246 - app - INFO - 实体抽取prompt:仪器名称|型号规格|探头型号|探头编号|生产厂家
+2025-01-21 10:40:44,344 - app - INFO - 实体抽取prompt:辐射检测仪器的频率范围、量程、校准证书及有效期
+2025-01-21 10:41:23,490 - app - INFO - 模型预测结果:[{'entity_name': '监测机构名称', 'prompt': '监测单位名称', 'extract_type': 1, 'extract_content': '江西省地质局实验测试大队', 'origin_text': '江西省地质局实验测试大队5G移动通信基站电磁辐射环境监测报告', 'position': [{'page': 2, 'text': '江西省地质局实验测试大队', 'start_pixel': (571, 1719), 'end_pixel': (1006, 1719)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测机构名称', 'prompt': '监测单位名称', 'extract_type': 1, 'extract_content': '江西省地质局实验测试大队', 'origin_text': '监测单位：江西省地质局实验测试大队', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '委托单位名称', 'prompt': '委托单位名称', 'extract_type': 1, 'extract_content': '中国电信股份有限公司泉州分公司', 'origin_text': '委托单位：中国电信股份有限公司泉州分公司中国移动通信集团福建有限公司泉州分公司', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '委托单位名称', 'prompt': '委托单位名称', 'extract_type': 1, 'extract_content': '中国移动通信集团福建有限公司泉州分公司', 'origin_text': '委托单位：中国电信股份有限公司泉州分公司中国移动通信集团福建有限公司泉州分公司', 'position': [{'page': 2, 'text': '中国移动通信集团福建有限公司泉州分公司', 'start_pixel': (507, 1195), 'end_pixel': (1228, 1195)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '委托单位名称', 'prompt': '委托单位名称', 'extract_type': 1, 'extract_content': '中国移动通信集团福建有限公司泉州分公司', 'origin_text': '委托单位中国移动通信集团福建有限公司泉州分公司', 'position': [{'page': 9, 'text': '中国移动通信集团福建有限公司泉州分公司', 'start_pixel': (493, 497), 'end_pixel': (1025, 497)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '委托单位名称', 'prompt': '委托单位名称', 'extract_type': 1, 'extract_content': '中国电信股份有限公司泉州分公司', 'origin_text': '电信：泉州市丰泽区刺桐南路西侧电信大楼', 'position': [{'page': 9, 'text': '中国电信股份有限公司泉州分公司', 'start_pixel': (491, 459), 'end_pixel': (911, 459)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测报告编号', 'prompt': '监测报告编号', 'extract_type': 1, 'extract_content': '环基字(泉州市)2024-6518号', 'origin_text': '报告编号：环基字(泉州市)2024-6518号', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测报告编号', 'prompt': '监测报告编号', 'extract_type': 1, 'extract_content': '环基字(泉州市)2024-6518号', 'origin_text': '报告编号：环基字(泉州市)2024-6518号监测报告', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测报告编号', 'prompt': '监测报告编号', 'extract_type': 1, 'extract_content': '环基字(泉州市)2024-6518号', 'origin_text': '监测报告报告编号：环基字(泉州市)2024-6518号第1页共6页', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州惠安崇武莲西搬迁-HLH基站', 'origin_text': '泉州惠安崇武莲西搬迁-HLH基站电磁辐射环境监测点位示意图报告编号', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州惠安崇武莲西', 'origin_text': '泉州惠安崇武莲西搬迁-HLH', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州惠安崇武莲西搬迁-HLH基站', 'origin_text': '泉州惠安崇武莲西搬迁-HLH基站电磁辐射环境现场监测照片和频谱分布图', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '监测点(1号点)', 'origin_text': 'a:监测点(1号点)', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '公众活动区域内监测点(2号点)', 'origin_text': 'b:公众活动区域内监测点(2号点)', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '公众活动区域内监测点(3号点)', 'origin_text': 'C:公众活动区域内监测点(3号点)', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州惠安崇武莲西搬迁-HLH基站', 'origin_text': '泉州惠安崇武莲西搬迁-HLH基站电磁辐射环境现场监测照片和频谱分布图报告编号', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州惠安崇武莲西搬迁-HLH', 'origin_text': '监测项目泉州惠安崇武莲西搬迁-HLH', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': '泉州市惠安县崇武镇崇兴北路273号', 'origin_text': '建设地点运营单位泉州市惠安县崇武镇崇兴北路273号', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测地点', 'prompt': '基站地址|建设地点|监测地点', 'extract_type': 1, 'extract_content': 'E:118.9335611880-1920/经纬度(°)*发射功率(W)15.2*发射频率范围(MHz)N:24.885493870-880/2130-2150', 'origin_text': '(监测地点)E:118.9335611880-1920/经纬度(°)*发射功率(W)15.2*发射频率范围(MHz)N:24.885493870-880/2130-2150', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '站址经度和纬度', 'prompt': '经纬度', 'extract_type': 1, 'extract_content': 'Lat:I.ng:', 'origin_text': '未启用Lat:I.ng:探头SR-06一实时值-平均值', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '站址经度和纬度', 'prompt': '经纬度', 'extract_type': 1, 'extract_content': 'Lat:Ing', 'origin_text': '未启用Lat:Ing探头SRF06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '站址经度和纬度', 'prompt': '经纬度', 'extract_type': 1, 'extract_content': 'E:118.9335611880-1920/经纬度(°)', 'origin_text': 'E:118.9335611880-1920/经纬度(°)*发射功率(W)15.2*发射频率范围(MHz)N:24.885493870-880/2130-2150', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '铁塔站址编码', 'prompt': '铁塔站址编码', 'extract_type': 1, 'extract_content': '', 'origin_text': '', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '5G', 'origin_text': '5G移动通信基站电磁辐射环境监测报告', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '5G', 'origin_text': '5G基站电磁辐射环境现场监测照片和频谱分布图', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '电信870MHz-880MHz', 'origin_text': '电信870MHz-880MHz0.0710.0260.0720.573', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '电信18001.86GHz-1.88GHz', 'origin_text': '电信18001.86GHz-1.88GHz0.0900.0140.2760.182', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '电信21002.11GHz-2.13GHz', 'origin_text': '电信21002.11GHz-2.13GHz0.0170.0010.0200.010', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '电信5G3.4GHz-3.5GHz', 'origin_text': '电信5G3.4GHz-3.5GHz0.001/0.0010.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动900934MHz-949MHz', 'origin_text': '移动900934MHz-949MHz0.0070.0020.0080.033', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动18001.805GHz-1.83GHz', 'origin_text': '移动18001.805GHz-1.83GHz1/1/', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动18801.88GHz-1.92GHz', 'origin_text': '移动18801.88GHz-1.92GHz0.5380.0750.1320.287', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动20002.01GHz-2.025GHz', 'origin_text': '移动20002.01GHz-2.025GHz//1/', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动23002.32GHz-2.37GHz', 'origin_text': '移动23002.32GHz-2.37GHz0.001I1', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动5G12.515GHz-2.675GHz', 'origin_text': '移动5G12.515GHz-2.675GHz0.0030.0010.0020.006', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '移动5G24.8GHz-4.9GHz', 'origin_text': '移动5G24.8GHz-4.9GHz0.002!0.0020.002', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '联通900954MHz-960MHz', 'origin_text': '联通900954MHz-960MHz////', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '联通180011.84GHz-1.85GHz', 'origin_text': '联通180011.84GHz-1.85GHz0.004/0.0350.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '联通21002.13GHz-2.145GHz', 'origin_text': '联通21002.13GHz-2.145GHz0.0240.0040.0270.012', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '联通180021.85GHz-1.86GHz', 'origin_text': '联通180021.85GHz-1.86GHz0.003/0.0300.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '网络制式', 'prompt': '网络制式|网络系统', 'extract_type': 1, 'extract_content': '联通5G3.5GHz-3.6GHz', 'origin_text': '联通5G3.5GHz-3.6GHz0.001!0.0010.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '870MHz-880MHz', 'origin_text': '电信870MHz-880MHz0.0710.0260.0720.573', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '1.86GHz-1.88GHz', 'origin_text': '电信18001.86GHz-1.88GHz0.0900.0140.2760.182', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '2.11GHz-2.13GHz', 'origin_text': '电信21002.11GHz-2.13GHz0.0170.0010.0200.010', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '3.4GHz-3.5GHz', 'origin_text': '电信5G3.4GHz-3.5GHz0.001/0.0010.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '934MHz-949MHz', 'origin_text': '移动900934MHz-949MHz0.0070.0020.0080.033', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '1.805GHz-1.83GHz', 'origin_text': '移动18001.805GHz-1.83GHz1/1/', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '1.88GHz-1.92GHz', 'origin_text': '移动18801.88GHz-1.92GHz0.5380.0750.1320.287', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '2.01GHz-2.025GHz', 'origin_text': '移动20002.01GHz-2.025GHz//1/', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '2.32GHz-2.37GHz', 'origin_text': '移动23002.32GHz-2.37GHz0.001I1', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '12.515GHz-2.675GHz', 'origin_text': '移动5G12.515GHz-2.675GHz0.0030.0010.0020.006', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '4.8GHz-4.9GHz', 'origin_text': '移动5G24.8GHz-4.9GHz0.002!0.0020.002', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '954MHz-960MHz', 'origin_text': '联通900954MHz-960MHz////', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '11.84GHz-1.85GHz', 'origin_text': '联通180011.84GHz-1.85GHz0.004/0.0350.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '2.13GHz-2.145GHz', 'origin_text': '联通21002.13GHz-2.145GHz0.0240.0040.0270.012', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '21.85GHz-1.86GHz', 'origin_text': '联通180021.85GHz-1.86GHz0.003/0.0300.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '3.5GHz-3.6GHz', 'origin_text': '联通5G3.5GHz-3.6GHz0.001!0.0010.001', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '频率范围', 'prompt': '发射频率范围', 'extract_type': 1, 'extract_content': '1880-1920/经纬度(°)*发射功率(W)15.2*发射频率范围(MHz)N:24.885493870-880/2130-2150天线支架类型抱杆天线离地高度(m)19*天线增益(dBi)18天线数量(根)6是否共站是否共址其它运营商见附表1天线方向角(°)0/70/220运行状态正常监测频率范围(MHz)与下行频段相同与天线的距离发射天线5G终端设备监测值监测点位名称(m)序号应用场景(可多选)功率密度(或经纬度)下行频段垂直水平运营商型号数量(μW/cm²)(MHz)1880-19200.538基站楼东侧4F870-880vivoY70t/小米0.07178移动/电信2阳台2130-215011Pro0.032700-50000.834数据传输1880-19200.075基站北侧居民视频交互870-880vivoY70t/小米0.0262!7移动/电信2楼3F阳台游戏娱乐2130-215011Pro0.004虚拟购物700-50000.131智慧医疗1880-19200.132基站西侧居民工业应用870-880vivoY70t/小米0.072364移动/电信2楼5F阳台车联网2130-215011Pro0.036其他700-50000.6901880-19200.287基站楼南侧870-880vivoY70t/小米0.57342118移动/电信221m处地面2130-215011Pro0.014700-50001.214备注：*标注内容由客户提供,本实验室不对数据的来源和真实性负责。5G移动通信基站电磁辐射环境监测报告', 'origin_text': '*发射频率范围(MHz)N:24.885493870-880/2130-2150天线支架类型抱杆天线离地高度(m)19*天线增益(dBi)18天线数量(根)6是否共站是否共址其它运营商见附表1天线方向角(°)0/70/220运行状态正常监测频率范围(MHz)与下行频段相同与天线的距离发射天线5G终端设备监测值监测点位名称(m)序号应用场景(可多选)功率密度(或经纬度)下行频段垂直水平运营商型号数量(μW/cm²)(MHz)1880-19200.538基站楼东侧4F870-880vivoY70t/小米0.07178移动/电信2阳台2130-215011Pro0.032700-50000.834数据传输1880-19200.075基站北侧居民视频交互870-880vivoY70t/小米0.0262!7移动/电信2楼3F阳台游戏娱乐2130-215011Pro0.004虚拟购物700-50000.131智慧医疗1880-19200.132基站西侧居民工业应用870-880vivoY70t/小米0.072364移动/电信2楼5F阳台车联网2130-215011Pro0.036其他700-50000.6901880-19200.287基站楼南侧870-880vivoY70t/小米0.57342118移动/电信221m处地面2130-215011Pro0.014700-50001.214备注：*标注内容由客户提供,本实验室不对数据的来源和真实性负责。5G移动通信基站电磁辐射环境监测报告', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '天线数量', 'prompt': '天线数量', 'extract_type': 1, 'extract_content': '1副', 'origin_text': '天线架设位置密集居民区一天线方向10mA监测点H建筑物高度图15G基站电磁辐射环境监测点位示意图5G移动通信基站电磁辐射环境监测报告', 'position': [{'page': 1, 'text': '1副', 'start_pixel': (729, 1291), 'end_pixel': (741, 1291)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '天线数量', 'prompt': '天线数量', 'extract_type': 1, 'extract_content': '1副', 'origin_text': '台湾街1副1副3F居民楼2F居民楼3F居3F居民楼F棚子民楼图例天线架设位置密集居民区一天线方向10mA监测点H建筑物高度图15G基站电磁辐射环境监测点位示意图5G移动通信基站电磁辐射环境监测报告', 'position': [{'page': 1, 'text': '1副', 'start_pixel': (729, 1291), 'end_pixel': (741, 1291)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '天线数量', 'prompt': '天线数量', 'extract_type': 1, 'extract_content': '6', 'origin_text': '天线数量(根)6', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测日期', 'prompt': '监测日期', 'extract_type': 1, 'extract_content': '2024-11-05', 'origin_text': '2024-11-0512:52:08未启用Lat:I.ng:探头SR-06一实时值-平均值', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测日期', 'prompt': '监测日期', 'extract_type': 1, 'extract_content': '2024-11-05', 'origin_text': '2024-11-0513:05:08未启用LatL.ng探头SRF-06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测日期', 'prompt': '监测日期', 'extract_type': 1, 'extract_content': '2024-11-05', 'origin_text': '2024-11-0513:15:47末启用Lat:Ing探头SRF06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测日期', 'prompt': '监测日期', 'extract_type': 1, 'extract_content': '2024-11-05', 'origin_text': '2024-11-0513:24:12', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测日期', 'prompt': '监测日期', 'extract_type': 1, 'extract_content': '2024年11月05日', 'origin_text': '监测日期2024年11月05日', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测时间', 'prompt': '监测时间', 'extract_type': 1, 'extract_content': '2024-11-0512:52:08', 'origin_text': '2024-11-0512:52:08未启用Lat:I.ng:探头SR-06一实时值-平均值', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测时间', 'prompt': '监测时间', 'extract_type': 1, 'extract_content': '2024-11-0513:05:08', 'origin_text': '2024-11-0513:05:08未启用LatL.ng探头SRF-06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测时间', 'prompt': '监测时间', 'extract_type': 1, 'extract_content': '2024-11-0513:15:47', 'origin_text': '2024-11-0513:15:47末启用Lat:Ing探头SRF06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测时间', 'prompt': '监测时间', 'extract_type': 1, 'extract_content': '2024-11-0513:24:12', 'origin_text': '2024-11-0513:24:12未启用Lat:Lng:', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测时间', 'prompt': '监测时间', 'extract_type': 1, 'extract_content': '12:37~13:26', 'origin_text': '监测时间12:37~13:26', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '天气情况', 'prompt': '天气', 'extract_type': 1, 'extract_content': '晴', 'origin_text': '监测的天气：晴；', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '环境温度', 'prompt': '环境温度', 'extract_type': 1, 'extract_content': '27.6℃', 'origin_text': '环境温度：27.6℃；', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '相对湿度', 'prompt': '相对湿度', 'extract_type': 1, 'extract_content': '67.3%', 'origin_text': '相对湿度：67.3%', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测所依据的技术文件名称及代号', 'prompt': '监测所依据的技术文件名称及代号', 'extract_type': 1, 'extract_content': 'HJ1151-2020《5G移动通信基站电磁辐射环境监测方法(试行)》', 'origin_text': '监测所依据的技术HJ1151-2020《5G移动通信基站电磁辐射环境监测方法(试行)》', 'position': [{'page': 9, 'text': 'HJ1151-2020《5G移动通信基站电磁辐射环境监测方法(试行)》', 'start_pixel': (487, 880), 'end_pixel': (1325, 880)}], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'SR-06', 'origin_text': '探头SR-06一实时值-平均值', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'SRF-06', 'origin_text': '探头SRF-06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'SRF06', 'origin_text': '探头SRF06一实时值一平均能', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'SHF-06', 'origin_text': '·探头SHF-06平均值', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': '选频式电磁辐射监测仪', 'origin_text': '仪器名称：选频式电磁辐射监测仪；', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'OS-4P', 'origin_text': '型号规格：OS-4P；', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'SRF-06', 'origin_text': '探头型号规格：SRF-06三轴全向电场天线；', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': 'A-1557', 'origin_text': '探头编号：A-1557及编号', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '监测使用辐射检测仪器的设备名称、型号规格及编号', 'prompt': '仪器名称|型号规格|探头型号|探头编号|生产厂家', 'extract_type': 1, 'extract_content': '北京森馥科技股份有限公司', 'origin_text': '生产厂家：北京森馥科技股份有限公司', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '起始频率30MHz终止频率5GHz', 'origin_text': '起始频率30MHz峰值0.095μ/cm²...终止频率5GHz值额点877.1667z', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '起始频率30终止频率5GHz', 'origin_text': '起始频率30峰位0.014μR/c...终止频率5GHz值额点877.1667z', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '起始频率30终止频率5CHx', 'origin_text': '起始频率30峰位0.056μn/c...终止频率5CHx峰值频点1.8765CHz', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '量程26.5μn/cm(自动)', 'origin_text': '量程26.5μn/cm(自动)终止额率5C', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '量程0.3μn/cm(白动)', 'origin_text': '量程0.3μn/cm(白动)终止频率5GHz', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '量程26.5μn/cm(白动)', 'origin_text': '量程26.5μn/cm(白动)终止额率5CHx', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '30z', 'origin_text': '起始率30z峰值0.079μ8/c²', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '5GHx', 'origin_text': '终止频率5GHx峰值频点873.9929Ix', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '26.5μ8/cn²(自动)', 'origin_text': '量程26.5μ8/cn²(自动)', 'position': [], 'check_status': 0, 'review_level': 1}, {'entity_name': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'prompt': '辐射检测仪器的频率范围、量程、校准证书及有效期', 'extract_type': 1, 'extract_content': '频率响应范围：30MHz~6GHz, 量程范围：1mV/m~300V/m(即2.65×10-7μW/cm²~2.38×104μW/cm²), 仪器主要计量校准证书号：2024F33-10-5094021003, 校准有效期：2024-02-19~2025-02-18', 'origin_text': '仪器名称：选频式电磁辐射监测仪；使用的主要仪器设备名称、型号规格及编号4生产厂家：北京森馥科技股份有限公司频率响应范围：30MHz~6GHz量程范围：1mV/m~300V/m(即2.65×10-7μW/cm²~2.38×104μW/cm²)仪器主要计量校准证书号：2024F33-10-5094021003技术指标校准单位：上海市计量测试研究院校准有效期：2024-02-19~2025-02-18', 'position': [], 'check_status': 0, 'review_level': 1}]
+2025-01-21 17:23:01,145 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 17:23:01,145 - app - INFO - 启动服务
+2025-01-21 17:23:02,636 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 17:23:02,638 - app - INFO - 启动服务
+2025-01-21 19:04:25,479 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:04:25,482 - app - INFO - 启动服务
+2025-01-21 19:04:27,001 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:04:27,001 - app - INFO - 启动服务
+2025-01-21 19:07:54,989 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:07:54,994 - app - INFO - 启动服务
+2025-01-21 19:07:56,386 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:07:56,386 - app - INFO - 启动服务
+2025-01-21 19:09:19,663 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:09:19,669 - app - INFO - 启动服务
+2025-01-21 19:09:21,044 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:09:21,049 - app - INFO - 启动服务
+2025-01-21 19:11:09,797 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:11:09,798 - app - INFO - 启动服务
+2025-01-21 19:11:11,220 - app - INFO - 定时清除测试任务线程开启
+2025-01-21 19:11:11,221 - app - INFO - 启动服务

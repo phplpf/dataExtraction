@@ -1,0 +1,101 @@
+2025-01-23 16:08:17,800 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:08:17,912 - app - INFO - 启动服务
+2025-01-23 16:08:19,771 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:08:19,776 - app - INFO - 启动服务
+2025-01-23 16:11:02,437 - app - INFO - 新建测试任务
+2025-01-23 16:11:02,526 - app - DEBUG - id: 43
+2025-01-23 16:11:02,832 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:11:03,005 - app - DEBUG - id: 1
+2025-01-23 16:11:03,007 - app - DEBUG - id: 1,type: 1
+2025-01-23 16:11:03,010 - app - DEBUG - id: 3,type: 2
+2025-01-23 16:11:03,012 - app - INFO - 开始抽取数据
+2025-01-23 16:11:03,241 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/165/
+2025-01-23 16:11:03,242 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-23 16:11:03,242 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/165/
+2025-01-23 16:11:03,710 - app - INFO - num_pages=10
+2025-01-23 16:11:03,711 - app - INFO - Processing pages 1 to 10
+2025-01-23 16:11:03,711 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:12:09,447 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:12:09,475 - app - INFO - 启动服务
+2025-01-23 16:12:11,201 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:12:11,204 - app - INFO - 启动服务
+2025-01-23 16:15:21,538 - app - INFO - 新建测试任务
+2025-01-23 16:15:21,538 - app - DEBUG - id: 43
+2025-01-23 16:15:21,621 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:15:21,790 - app - DEBUG - id: 1
+2025-01-23 16:15:21,791 - app - DEBUG - id: 1,type: 1
+2025-01-23 16:15:21,794 - app - DEBUG - id: 3,type: 2
+2025-01-23 16:15:21,796 - app - INFO - 开始抽取数据
+2025-01-23 16:15:21,832 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/166/
+2025-01-23 16:15:21,832 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-23 16:15:21,832 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/166/
+2025-01-23 16:15:21,857 - app - INFO - num_pages=10
+2025-01-23 16:15:21,857 - app - INFO - Processing pages 1 to 10
+2025-01-23 16:15:21,857 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:47:42,971 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:47:42,987 - app - INFO - 启动服务
+2025-01-23 16:47:44,731 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 16:47:44,737 - app - INFO - 启动服务
+2025-01-23 16:48:01,728 - app - INFO - 新建测试任务
+2025-01-23 16:48:01,728 - app - DEBUG - id: 43
+2025-01-23 16:48:02,012 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:48:02,131 - app - DEBUG - id: 1
+2025-01-23 16:48:02,134 - app - DEBUG - id: 1,type: 1
+2025-01-23 16:48:02,137 - app - DEBUG - id: 3,type: 2
+2025-01-23 16:48:02,138 - app - INFO - 开始抽取数据
+2025-01-23 16:48:02,176 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/167/
+2025-01-23 16:48:02,177 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-23 16:48:02,177 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/167/
+2025-01-23 16:48:02,389 - app - INFO - num_pages=10
+2025-01-23 16:48:02,389 - app - INFO - Processing pages 1 to 10
+2025-01-23 16:48:02,390 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-23 16:56:50,293 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-23 17:04:06,351 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 17:04:06,354 - app - INFO - 启动服务
+2025-01-23 17:04:08,037 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 17:04:08,042 - app - INFO - 启动服务
+2025-01-23 17:04:17,237 - app - INFO - 新建测试任务
+2025-01-23 17:04:17,237 - app - DEBUG - id: 43
+2025-01-23 17:04:17,302 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-23 17:04:17,441 - app - DEBUG - id: 1
+2025-01-23 17:04:17,443 - app - DEBUG - id: 1,type: 1
+2025-01-23 17:04:17,445 - app - DEBUG - id: 3,type: 2
+2025-01-23 17:04:17,447 - app - INFO - 开始抽取数据
+2025-01-23 17:04:17,528 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/168/
+2025-01-23 17:04:17,528 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-23 17:04:17,528 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/168/
+2025-01-23 17:04:17,802 - app - INFO - num_pages=10
+2025-01-23 17:04:17,802 - app - INFO - Processing pages 1 to 10
+2025-01-23 17:04:17,803 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-23 17:06:44,863 - app - ERROR - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-23 17:06:47,465 - app - ERROR - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-23 17:06:49,910 - app - ERROR - ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-01-23 17:06:49,963 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-23 17:19:18,151 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 17:19:18,154 - app - INFO - 启动服务
+2025-01-23 17:19:19,846 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 17:19:19,849 - app - INFO - 启动服务
+2025-01-23 17:19:37,988 - app - INFO - 新建测试任务
+2025-01-23 17:19:37,989 - app - DEBUG - id: 43
+2025-01-23 17:19:38,415 - app - INFO - 文件保存成功: data/uploads/templates/福建_惠安莲西-扫描件.pdf
+2025-01-23 17:19:38,676 - app - DEBUG - id: 1
+2025-01-23 17:19:38,677 - app - DEBUG - id: 1,type: 1
+2025-01-23 17:19:38,680 - app - DEBUG - id: 3,type: 2
+2025-01-23 17:19:38,681 - app - INFO - 开始抽取数据
+2025-01-23 17:19:38,929 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/169/
+2025-01-23 17:19:38,929 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-01-23 17:19:38,929 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/169/
+2025-01-23 17:19:39,277 - app - INFO - num_pages=10
+2025-01-23 17:19:39,277 - app - INFO - Processing pages 1 to 10
+2025-01-23 17:19:39,277 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-01-23 17:20:18,316 - app - ERROR - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-01-23 17:20:19,005 - app - ERROR - HTTPConnectionPool(host='39.164.53.248', port=25004): Max retries exceeded with url: /api/element/ele_ocr_ad (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7991513874f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-01-23 17:24:16,294 - app - INFO - 实体抽取prompt:监测单位名称
+2025-01-23 18:47:16,802 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 18:47:16,810 - app - INFO - 启动服务
+2025-01-23 18:47:21,324 - app - INFO - 定时清除测试任务线程开启
+2025-01-23 18:47:21,327 - app - INFO - 启动服务
+2025-01-23 18:47:30,915 - app - INFO - 获取大模型基座服务
+2025-01-23 18:47:30,915 - app - DEBUG - id: 11,type: 2
+2025-01-23 18:48:02,758 - app - INFO - 工作流详情页
+2025-01-23 18:48:02,758 - app - DEBUG - id: 2

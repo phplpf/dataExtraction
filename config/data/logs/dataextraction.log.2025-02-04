@@ -1,0 +1,140 @@
+2025-02-04 18:23:00,157 - app - INFO - 开始抽取数据
+2025-02-04 18:23:00,418 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:23:00,418 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-02-04 18:23:00,418 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:23:00,774 - app - INFO - num_pages=10
+2025-02-04 18:23:00,774 - app - INFO - Processing pages 1 to 10
+2025-02-04 18:23:00,774 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-02-04 18:23:10,033 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,037 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,042 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,065 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,080 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,084 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,084 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,089 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,095 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,100 - app - ERROR - string indices must be integers
+2025-02-04 18:23:10,100 - app - INFO - 实体抽取prompt:监测单位名称
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:委托单位名称
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:监测报告编号
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:基站地址|建设地点|监测地点
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:经纬度
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:铁塔站址编码
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:网络制式|网络系统
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:发射频率范围
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:天线数量
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:监测日期
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:监测时间
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:天气
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:环境温度
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:相对湿度
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:监测所依据的技术文件名称及代号
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:仪器名称|型号规格|探头型号|探头编号|生产厂家
+2025-02-04 18:23:10,101 - app - INFO - 实体抽取prompt:辐射检测仪器的频率范围、量程、校准证书及有效期
+2025-02-04 18:23:10,101 - app - INFO - 模型预测结果:[]
+2025-02-04 18:37:25,526 - app - INFO - 开始抽取数据
+2025-02-04 18:37:25,528 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:37:25,528 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-02-04 18:37:25,528 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:37:25,593 - app - INFO - num_pages=10
+2025-02-04 18:37:25,594 - app - INFO - Processing pages 1 to 10
+2025-02-04 18:37:25,594 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-02-04 18:37:34,328 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,331 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,333 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,346 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,358 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,362 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,362 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,367 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,373 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,378 - app - ERROR - string indices must be integers
+2025-02-04 18:37:34,378 - app - INFO - 实体抽取prompt:监测单位名称
+2025-02-04 18:37:34,378 - app - INFO - 实体抽取prompt:委托单位名称
+2025-02-04 18:37:34,378 - app - INFO - 实体抽取prompt:监测报告编号
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:基站地址|建设地点|监测地点
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:经纬度
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:铁塔站址编码
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:网络制式|网络系统
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:发射频率范围
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:天线数量
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:监测日期
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:监测时间
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:天气
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:环境温度
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:相对湿度
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:监测所依据的技术文件名称及代号
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:仪器名称|型号规格|探头型号|探头编号|生产厂家
+2025-02-04 18:37:34,379 - app - INFO - 实体抽取prompt:辐射检测仪器的频率范围、量程、校准证书及有效期
+2025-02-04 18:37:34,380 - app - INFO - 模型预测结果:[]
+2025-02-04 18:47:39,368 - app - INFO - 开始抽取数据
+2025-02-04 18:47:39,369 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:47:39,369 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-02-04 18:47:39,369 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 18:47:39,381 - app - INFO - num_pages=10
+2025-02-04 18:47:39,381 - app - INFO - Processing pages 1 to 10
+2025-02-04 18:47:39,381 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-02-04 18:47:51,751 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:47:52,542 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:47:53,379 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:04,727 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:13,080 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:14,595 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:14,772 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:17,037 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:19,306 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:21,423 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:监测单位名称
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:委托单位名称
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:监测报告编号
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:基站地址|建设地点|监测地点
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:经纬度
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:铁塔站址编码
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:网络制式|网络系统
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:发射频率范围
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:天线数量
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:监测日期
+2025-02-04 18:48:21,488 - app - INFO - 实体抽取prompt:监测时间
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:天气
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:环境温度
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:相对湿度
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:监测所依据的技术文件名称及代号
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:仪器名称|型号规格|探头型号|探头编号|生产厂家
+2025-02-04 18:48:21,489 - app - INFO - 实体抽取prompt:辐射检测仪器的频率范围、量程、校准证书及有效期
+2025-02-04 18:48:21,489 - app - INFO - 模型预测结果:[]
+2025-02-04 19:10:45,112 - app - INFO - 开始抽取数据
+2025-02-04 19:10:45,113 - app - INFO - images_path:/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 19:10:45,113 - app - INFO - out_file_path:/home/senscape/workspace/dataExtraction/data/uploads/templates
+2025-02-04 19:10:45,113 - app - INFO - 开始执行 Docker 命令: word_file_path=/home/senscape/workspace/dataExtraction/data/uploads/templates,word_file_name=福建_惠安莲西-扫描件.pdf,images_path=/home/senscape/workspace/dataExtraction/data/download/templates/43/1/
+2025-02-04 19:10:45,309 - app - INFO - num_pages=10
+2025-02-04 19:10:45,309 - app - INFO - Processing pages 1 to 10
+2025-02-04 19:10:45,309 - app - INFO - pdf_path=/home/senscape/workspace/dataExtraction/data/uploads/templates/out/福建_惠安莲西-扫描件.pdf
+2025-02-04 19:10:57,936 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:10:58,703 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:10:59,503 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:11,041 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:20,355 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:21,901 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:22,066 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:24,558 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:27,096 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:29,475 - app - ERROR - 请求接口时出错，code:404
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:监测单位名称
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:委托单位名称
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:监测报告编号
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:基站地址|建设地点|监测地点
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:经纬度
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:铁塔站址编码
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:网络制式|网络系统
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:发射频率范围
+2025-02-04 19:11:29,505 - app - INFO - 实体抽取prompt:天线数量
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:监测日期
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:监测时间
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:天气
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:环境温度
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:相对湿度
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:监测所依据的技术文件名称及代号
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:仪器名称|型号规格|探头型号|探头编号|生产厂家
+2025-02-04 19:11:29,506 - app - INFO - 实体抽取prompt:辐射检测仪器的频率范围、量程、校准证书及有效期
+2025-02-04 19:11:29,506 - app - INFO - 模型预测结果:[]

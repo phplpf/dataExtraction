@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  data_extraction_app:
+    # 应用服务
+    # build:  # 使用当前目录下的Dockerfile构建镜像
+    #   context: ../
+    #   dockerfile:  package/Dockerfile
+    image: ubuntu-22.04 # 替换为你的镜像名称
+    container_name: data_extraction_app # 设置容器名称
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock # 挂载宿主机 Docker 套接字
+      - /app/_internal/data/uploads/templates/:/app/_internal/data/uploads/templates/
+      - /app/_internal/config:/app/_internal/config
+
+    environment:
+      - ENV_VAR=value # 定义环境变量
+      - POSTGRES_DB=data_extraction_db
+      - POSTGRES_USER=senscpae
+      - POSTGRES_PASSWORD=senscape
+    ports:
+      - "5000:5000" # 将容器内的80端口映射到宿主机的80端口
+    # depends_on:
+    #   - db # 设置服务依赖，确保数据库服务先启动
+    # links:
+    #   - db
+    networks:
+      - app_network # 定义容器所在的网络
+    command: /app/app # 设置容器启动时执行的命令
+
+  db:
+    # 数据库服务
+    image: postgres:11 # 使用PostgreSQL 13镜像
+    container_name: postgres_db # 设置容器名称
+    environment:
+      - POSTGRES_DB=data_extraction_db # 定义数据库名称
+      - POSTGRES_USER=senscape # 定义数据库用户名
+      - POSTGRES_PASSWORD=senscape # 定义数据库密码
+    volumes:
+      - pgdata:/var/lib/postgresql/data # 持久化数据库数据
+    networks:
+      - app_network # 定义容器所在的网络
+    ports:
+      - "15432:5432" # 将容器内的80端口映射到宿主机的80端口
+    restart: always # 自动重启容器
+
+  nginx:
+    # Nginx服务
+    image: nginx:stable-perl # 使用Nginx最新镜像
+    container_name: llm_app_nginx # 设置Nginx容器名称
+    environment:
+      - POSTGRES_DB=data_extraction_db # 定义数据库名称
+      - POSTGRES_USER=senscape # 定义数据库用户名
+      - POSTGRES_PASSWORD=senscape # 定义数据库密码
+
+    volumes:
+      - /app/llm_app/nginx:/etc/nginx/conf.d # 挂载Nginx配置文件目录
+    ports:
+      - "8201:8201" # 映射80端口
+    networks:
+      - app_network # 定义容器所在的网络
+    links:
+      - data_extraction_app
+    restart: always # 自动重启
+
+networks:
+  app_network:
+    # 定义网络
+    driver: bridge
+
+volumes:
+  pgdata: # 定义持久化卷

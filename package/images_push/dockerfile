@@ -1,0 +1,45 @@
+FROM ubuntu:22.04
+
+# 安装必要的依赖
+RUN apt-get update && \
+    apt-get install -y \
+    python3-pip \
+    python3-dev \
+    libffi-dev \
+    build-essential \
+    wget \
+    curl \
+    nginx \
+    ca-certificates \
+    gnupg \
+    lsb-release \
+    poppler-utils \
+    qtbase5-dev \
+    libqt5core5a \
+    libqt5gui5 \ 
+    libqt5widgets5 \ 
+    && rm -rf /var/lib/apt/lists/*
+
+# 复制本地下载的 Docker GPG 密钥
+COPY config/keys/docker.gpg /etc/apt/keyrings/docker.gpg
+
+# 设置 Docker 仓库
+RUN echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# 复制并安装 Docker CLI 的 deb 包
+COPY config/docker/docker-ce-cli.deb /tmp/docker-ce-cli.deb
+RUN dpkg -i /tmp/docker-ce-cli.deb && rm /tmp/docker-ce-cli.deb
+
+# 设置工作目录
+WORKDIR /app
+
+# 复制运行脚本和配置文件到容器
+COPY ./dist/http_server/http_server /app/http_server
+COPY ./dist/http_server/_internal/ /app/_internal/
+COPY app.db /app/app.db
+
+# 公开端口
+EXPOSE 8000
+
+# 设置容器启动时的执行入口
+ENTRYPOINT ["/app/http_server", "/app/app.db"]
